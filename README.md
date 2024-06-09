@@ -34,9 +34,9 @@ To get started with this project, follow these steps:
 In the Basic level, you will implement the core interface of application.
 
 ### Tasks
-- [ ] Fetch all posts using axios
-- [ ] Implement posts design on main page.
-- [ ] Implement routing to detailed post page using dynamic routes.
+- [x] Fetch all posts using axios
+- [x] Implement posts design on main page.
+- [x] Implement routing to detailed post page using dynamic routes.
 
 ## 🥈 Medium Level
 
